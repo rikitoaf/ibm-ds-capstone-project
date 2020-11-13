@@ -1,13 +1,21 @@
-# Neighbourhood Segmentation and Clustering
+# The Battle of Neighborhoods
 
-In this module, you will learn about k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
+In this module, you will start working on the capstone project. You will clearly define a problem and discuss the data that you will be using to solve the problem.
 
 ## Key Concepts
-- Hone your communication skills by documenting your work and submitting a full project report and a presentation or a blog post
-- Decide what is the suitable algorithm for the capstone project
-- Learn how to deal with missing attributes' values and imbalanced data .
-- Learn about CRISP DM framework for machine Learning
+- Define a problem for your capstone project.
+- Finding the data that you will use for the capstone project.
 
-## My Final Assignment Notebook 
+## Question 1
 
-[Notebook](https://nbviewer.jupyter.org/github/Thomas-George-T/IBM-Data-Science-Professional-Certification/blob/master/9.Applied_Data_Science_Capstone/Week_3_-_Neighborhood_Segmentation_and_Clustering/Applied_Capstone_Week_3_Assignment.ipynb)
+Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+
+This submission will eventually become your **Introduction/Business Problem** section in your final report. So I recommend that you push the report (having your Introduction/Business Problem section only for now) to your Github repository and submit a link to it.
+
+## Question 2
+
+Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+
+This submission will eventually become your **Data** section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it.
+
+**Link to my Notebook:** https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Report.ipynb
